@@ -21,5 +21,8 @@
   "devDependencies": {
     "tap": "~0.4.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "expire-unused-keys": "0.0.1",
+    "stringmap": "~0.2.2"
+  }
 }
